@@ -4,6 +4,11 @@ module.exports = {
     "./src/**/*.{ts,tsx}",
   ],
   theme: {
+    colors: {
+      blue: '#00e1ff',
+      cardGrey: '#27272a',
+      btnBlue: '#07999a'
+    },
     extend: {},
   },
   plugins: [],

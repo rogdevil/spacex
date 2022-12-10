@@ -1,0 +1,13 @@
+.modal-compare {
+    max-width: 1440px;
+    width: 98%;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #27272a;
+    max-height: 98%;
+    height: 100%;
+    overflow: scroll;
+    gap: 20px;
+}
